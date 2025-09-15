@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-purple.svg)](https://docs.python.org/3/library/tkinter.html)
-[![Institution](https://img.shields.io/badge/Institution-NUST-red.svg)](https://www.nust.edu.pk/)
+[![Institution](https://img.shields.io/badge/Institution-UETP-red.svg)](https://www.uetpeshawar.edu.pk/)
 
 ## 🎓 Bachelor's Thesis Project
 
