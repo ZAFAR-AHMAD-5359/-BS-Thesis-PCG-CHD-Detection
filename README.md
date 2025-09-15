@@ -10,10 +10,10 @@
 
 **Title:** Automatic Detection of Paediatric Congenital Heart Diseases from Phonocardiogram Signals
 **Author:** Zafar Ahmad
-**Institution:** National University of Sciences and Technology (NUST), Islamabad
+**Institution:** University of Engineering and Technology (UET), Peshawar
 **Degree:** BS Electrical Engineering
 **Year:** 2022
-**Supervisor:** [Supervisor Name]
+**Supervisor:** Dr. Muhammad Salman Khan
 
 ## 📋 Abstract
 
@@ -142,7 +142,7 @@ Trainable params: 402,178
 
 | Metric | Value | Description |
 |--------|-------|-------------|
-| **Accuracy** | 92.5% | Overall classification accuracy |
+| **Accuracy** | 98.56% | Overall classification accuracy |
 | **Sensitivity** | 89.3% | True positive rate for CHD detection |
 | **Specificity** | 94.7% | True negative rate for normal cases |
 | **Precision** | 91.2% | Positive predictive value |
@@ -218,7 +218,7 @@ pillow==9.0.0
 
 ## 🤝 Acknowledgments
 
-- **NUST** - For providing research facilities
+- **UET** - For providing research facilities
 - **Supervisor** - For guidance and support
 - **Medical Staff** - For clinical validation
 - **Patients & Families** - For participation in the study
@@ -248,8 +248,8 @@ If you use this work in your research, please cite:
 ## 📧 Contact
 
 **Zafar Ahmad**
-- 📧 Email: zafarahmad5359@gmail.com
-- 🔗 LinkedIn: [Profile](https://linkedin.com/in/your-profile)
+- 📧 Email: ahmadzafar577@gmail.com
+- 🔗 LinkedIn: [Profile](www.linkedin.com/in/zafar-ahmad-ab87b6183)
 - 🐙 GitHub: [@ZAFAR-AHMAD-5359](https://github.com/ZAFAR-AHMAD-5359)
 
 ## 📄 License
