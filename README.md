@@ -13,11 +13,12 @@
 **Institution:** University of Engineering and Technology (UET), Peshawar
 **Degree:** BS Electrical Engineering
 **Year:** 2022
-**Supervisor:** Dr. Muhammad Salman Khan
+**Supervisor:** Dr. Sayed Waqar Shah
+**Co-Supervisor:** Dr. Muhammad Salman Khan
 
 ## 📋 Abstract
 
-This research presents an innovative approach to automatically detect Congenital Heart Diseases (CHDs) in pediatric patients using Phonocardiogram (PCG) signals and deep learning. The project includes a complete end-to-end solution from signal acquisition to diagnosis, featuring a user-friendly GUI for clinical deployment.
+This research presents an innovative approach to automatically detect Congenital Heart Diseases (CHDs) in pediatric patients using Phonocardiogram (PCG) signals and deep learning. The project includes a complete end-to-end solution from signal acquisition to classification (Normal and Abnormal), featuring a user-friendly GUI for clinical deployment.
 
 ## 🌟 Key Features
 
@@ -168,7 +169,7 @@ Actual Normal   142    8
 ### Report Generation
 - Automated PDF creation
 - Patient information fields
-- Diagnosis details
+- Classification details
 - Confidence scores
 - Signal visualizations
 - Clinical recommendations
