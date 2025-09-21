@@ -22,14 +22,14 @@ This research presents an innovative approach to automatically detect Congenital
 
 ## 🌟 Key Features
 
-- ✅ **Automated CHD Detection** - AI-powered diagnosis from heart sounds
-- 🖥️ **Clinical GUI Application** - User-friendly interface for healthcare professionals
-- 📊 **Real-time Analysis** - Instant results with detailed reports
-- 📄 **PDF Report Generation** - Automated clinical reports for patient records
-- 🎯 **High Accuracy** - Robust deep learning model with clinical validation
-- 👶 **Pediatric-Focused** - Specifically designed for children's heart sounds
+- **Automated CHD Detection** - AI-powered diagnosis from heart sounds
+- **Clinical GUI Application** - User-friendly interface for healthcare professionals
+- **Real-time Analysis** - Instant results with detailed reports
+- **PDF Report Generation** - Automated clinical reports for patient records
+- **High Accuracy** - Robust deep learning model with clinical validation
+- **Pediatric-Focused** - Specifically designed for children's heart sounds
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 BS-Thesis-PCG-CHD-Detection/
@@ -66,7 +66,7 @@ BS-Thesis-PCG-CHD-Detection/
 └── 📄 LICENSE                                 # MIT License
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -107,7 +107,7 @@ jupyter notebook gui/Paeds_GUI.ipynb
 4. **Save Report** - Click "Save as PDF" to generate clinical report
 5. **Report Location** - PDF saves to the same folder as the input signal
 
-## 🔬 Methodology
+## Methodology
 
 ### Signal Processing Pipeline
 
@@ -137,7 +137,7 @@ Total params: 402,178
 Trainable params: 402,178
 ```
 
-## 📊 Results
+##  Results
 
 ### Performance Metrics
 
@@ -158,7 +158,7 @@ Actual Normal   142    8
        CHD       12   88
 ```
 
-## 💻 GUI Features
+##  GUI Features
 
 ### Main Interface
 - Clean, intuitive design for clinical use
@@ -174,7 +174,7 @@ Actual Normal   142    8
 - Signal visualizations
 - Clinical recommendations
 
-## 📚 Documentation
+##  Documentation
 
 ### Thesis Chapters
 1. **Introduction** - Problem statement and objectives
@@ -190,7 +190,7 @@ Actual Normal   142    8
 - User-friendly deployment interface
 - Automated reporting system
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.7+** - Core programming language
 - **TensorFlow/Keras** - Deep learning framework
@@ -200,7 +200,7 @@ Actual Normal   142    8
 - **ReportLab** - PDF generation
 - **Matplotlib** - Visualization
 
-## 📄 Requirements
+##  Requirements
 
 ```txt
 tensorflow==2.8.0
@@ -217,14 +217,14 @@ reportlab==3.6.0
 pillow==9.0.0
 ```
 
-## 🤝 Acknowledgments
+##  Acknowledgments
 
 - **UET** - For providing research facilities
 - **Supervisor** - For guidance and support
 - **Medical Staff** - For clinical validation
 - **Patients & Families** - For participation in the study
 
-## 📖 Citation
+##  Citation
 
 If you use this work in your research, please cite:
 
@@ -238,7 +238,7 @@ If you use this work in your research, please cite:
 }
 ```
 
-## 🔮 Future Work
+##  Future Work
 
 - [ ] Mobile application development
 - [ ] Cloud-based deployment
